@@ -16,6 +16,11 @@ We'll introduce classes, which provide a way to encapsulate several pieces of da
 * Turn functions into methods for a class
 * Use `self` in a method
 
+## Video
+
+[![](http://img.youtube.com/vi/BX-nVFCy4zU/0.jpg)](http://www.youtube.com/watch?v=BX-nVFCy4zU "Classes")
+
+
 ## Classes
 
 So far in your Swift studies, you have encountered a few different data types: `String`s, `Int`s, `Array`s, `Dictionaries`, and so on. These types have been fairly basic: `String`s hold a sequence of characters, `Int`s hold a number, and so forth.
